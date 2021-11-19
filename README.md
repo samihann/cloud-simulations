@@ -1,5 +1,5 @@
 # Cloud Environment Simulation
-### Description: Create cloud simulators in Scala for evaluating executions of applications in cloud datacenters with different characteristics and deployment models. (CS 441 | UIC)
+### Description: Create cloud simulators in Scala for evaluating executions of applications in cloud datacenters with different characteristics and deployment models.
 
 
 
